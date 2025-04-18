@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - :seedling: Passionate about solving problems through code and exploring new technologies.
 - :mailbox: You can reach me at oliviag_sd@outlook.com
 ### :globe_with_meridians: Socials:
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:ozairyousufi1400@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:OliviaG_SD@outlook.com)
 ### :hammer_and_wrench: Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat-square)
 ![React](https://img.shields.io/badge/-ReactJS-blue?logo=react&style=flat-square)
