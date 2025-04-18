@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### :dart: Currently Working On:
 - :iphone: Expanding my knowledge in **AI Integration**.
 ### :triangular_flag_on_post: Recent Projects:
-- **[My-Plants Mobile App]([Link to Repo](https://github.com/AOYousufi/my-plants-FE))**
-- **[NC-News Full-stack App]([Link to Repo](https://github.com/AOYousufi/NC-News-BE))**
-- **[Virtual Exhibition Web App]([Link to Repo](https://github.com/AOYousufi/Virtual-Exhibiton))**
+- **[My-Plants Mobile App]([Link to Repo](https://github.com/odonnellrory/my-plants-FE))**
+- **[NC-News Full-stack App]([Link to Repo](https://github.com/LivEva/nc-news-frontend))**
+- **[Virtual Exhibition Web App]([Link to Repo](https://github.com/LivEva/Exhibition-project))**
 
 
 
