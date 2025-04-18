@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)
 ![TDD](https://img.shields.io/badge/-TDD-lightgray?logo=jest&style=flat-square)
 ### :chart_with_upwards_trend: GitHub Stats:
-![Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AOYousufi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LivEva&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ### :dart: Currently Working On:
 - :iphone: Expanding my knowledge in **AI Integration**.
 ### :triangular_flag_on_post: Recent Projects:
