@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### :chart_with_upwards_trend: GitHub Stats:
 ![Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LivEva&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ### :dart: Currently Working On:
-- :iphone: Expanding my knowledge in **AI Integration**.
+- :iphone: Expanding my knowledge in **AI Integration** , **creative coding** , **animations**.
 ### :triangular_flag_on_post: Recent Projects:
 - **[My-Plants Mobile App]([Link to Repo](https://github.com/odonnellrory/my-plants-FE))**
 - **[NC-News Full-stack App]([Link to Repo](https://github.com/LivEva/nc-news-frontend))**
